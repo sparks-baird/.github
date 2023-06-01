@@ -2,7 +2,7 @@
 
 🙋‍ [**Taylor Sparks**](https://github.com/sp8rks): Associate Professor of Mat. Sci. & Eng. @ University of Utah and co-host of [Materialism podcast](https://materialismpodcast.com/)
 
-🙋‍ [**Sterling Baird**](https://github.com/sgbaird): Ph.D. candidate in the Sparks Group focusing on data-driven materials discovery
+🙋‍ [**Sterling Baird**](https://github.com/sgbaird): Ph.D. candidate (8/2020-8/2023) in the Sparks Group focusing on data-driven materials discovery
 
 
 The @sparks-baird organization hosts the joint efforts between Taylor and Sterling in driving the acceleration of materials informatics where AI meets materials science. These applications range from materials property prediction and generative models to exploratory materials optimization and autonomous scientific research.
