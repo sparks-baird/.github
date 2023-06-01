@@ -5,7 +5,7 @@
 🙋‍ [**Sterling Baird**](https://github.com/sgbaird): Ph.D. candidate (8/2020-8/2023) in the Sparks Group focusing on data-driven materials discovery
 
 
-The @sparks-baird organization hosts the joint efforts between Taylor and Sterling in driving the acceleration of materials informatics where AI meets materials science. These applications range from materials property prediction and generative models to exploratory materials optimization and autonomous scientific research.
+The `@sparks-baird` organization hosts the joint efforts between Taylor and Sterling in driving the acceleration of materials informatics where AI meets materials science. These applications range from materials property prediction and generative models to exploratory materials optimization and autonomous scientific research.
 
 ## Contributing
 
